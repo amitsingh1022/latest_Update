@@ -21,8 +21,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 /*
   Replace the SSID and Password according to your wifi
 */
-const char *ssid = "TEGUH-5G";
-const char *password = "Alvyn2002";
+const char *ssid = "john";
+const char *password = "Akira2023";
 
 // Webserver and Websockets setup
 AsyncWebServer server(80);
